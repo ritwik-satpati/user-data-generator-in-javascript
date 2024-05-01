@@ -1,0 +1,112 @@
+[
+    {
+        "_id": "U-A0001",
+        "name": "John Smith",
+        "age": 32,
+        "gender": "male",
+        "city": "Visakhapatnam",
+        "state": "Andhra Pradesh",
+        "country": "India",
+        "occupationStatus": "Working",
+        "occupation": "Software Engineer"
+    },
+    {
+        "_id": "U-A0002",
+        "name": "Mary Williams",
+        "age": 20,
+        "gender": "female",
+        "city": "Dibrugarh",
+        "state": "Assam",
+        "country": "India",
+        "occupationStatus": "Student",
+        "occupation": "College Student"
+    },
+    {
+        "_id": "U-A0003",
+        "name": "Alex Brown",
+        "age": 58,
+        "gender": "other",
+        "city": "Itanagar",
+        "state": "Arunachal Pradesh",
+        "country": "India",
+        "occupationStatus": "Not-Working",
+        "occupation": "Unemployed"
+    },
+    {
+        "_id": "U-A0004",
+        "name": "David Miller",
+        "age": 45,
+        "gender": "male",
+        "city": "Guwahati",
+        "state": "Assam",
+        "country": "India",
+        "occupationStatus": "Working",
+        "occupation": "Doctor"
+    },
+    {
+        "_id": "U-A0005",
+        "name": "Linda Jones",
+        "age": 18,
+        "gender": "female",
+        "city": "Vijayawada",
+        "state": "Andhra Pradesh",
+        "country": "India",
+        "occupationStatus": "Student",
+        "occupation": "College Student"
+    },
+    {
+        "_id": "U-A0006",
+        "name": "Riley Thomas",
+        "age": 30,
+        "gender": "other",
+        "city": "Pasighat",
+        "state": "Arunachal Pradesh",
+        "country": "India",
+        "occupationStatus": "Working",
+        "occupation": "Manager"
+    },
+    {
+        "_id": "U-A0007",
+        "name": "Elizabeth Garcia",
+        "age": 62,
+        "gender": "female",
+        "city": "Naharlagun",
+        "state": "Arunachal Pradesh",
+        "country": "India",
+        "occupationStatus": "Retired",
+        "occupation": "Previously Teacher"
+    },
+    {
+        "_id": "U-A0008",
+        "name": "Michael Hernandez",
+        "age": 12,
+        "gender": "male",
+        "city": "Unknown",
+        "state": "Bihar",
+        "country": "India",
+        "occupationStatus": "Student",
+        "occupation": "School Student"
+    },
+    {
+        "_id": "U-A0009",
+        "name": "Jessica Moore",
+        "age": 48,
+        "gender": "female",
+        "city": "Visakhapatnam",
+        "state": "Andhra Pradesh",
+        "country": "India",
+        "occupationStatus": "Working",
+        "occupation": "Salesperson"
+    },
+    {
+        "_id": "U-A0010",
+        "name": "Richard Moore",
+        "age": 10,
+        "gender": "male",
+        "city": "Itanagar",
+        "state": "Arunachal Pradesh",
+        "country": "India",
+        "occupationStatus": "Student",
+        "occupation": "School Student"
+    }
+]
